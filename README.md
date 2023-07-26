@@ -22,11 +22,11 @@ A fun and interactive web-based dice game where players take turns rolling dice 
 
 The project utilizes the following technologies:
 
-- <img src="logos/html-logo.png" alt="HTML Logo" style="width: 20px; height: auto;" >
+- <img src="/logos/html-logo.png" alt="HTML Logo" style="width: 20px; height: auto;" >
   HTML
-- <img src="logos/css-logo.png" alt="CSS Logo" style="width: 17px; height: auto;">
+- <img src="/logos/css-logo.png" alt="CSS Logo" style="width: 17px; height: auto;">
    CSS
-- <img src="logos/js-logo.png" alt="JavaScript Logo" style="width: 20px; height: auto;">
+- <img src="/logos/js-logo.png" alt="JavaScript Logo" style="width: 20px; height: auto;">
   JavaScript
 
 ## Learning Outcomes 📚
