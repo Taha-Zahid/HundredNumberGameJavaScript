@@ -1,6 +1,6 @@
 # Hundred Number Game 💯
 
-An engaging Pig Game where players roll dice, accumulate points, and aim to be the first to reach 100 points to win!
+An engaging Hundred Number Game where players roll dice, accumulate points, and aim to be the first to reach 100 points to win!
 
 ## Description 📝
 
